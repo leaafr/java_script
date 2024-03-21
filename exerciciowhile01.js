@@ -1,4 +1,3 @@
-
 import rl, {questionInt} from 'readline-sync';
 
 let num = rl.questionInt("Informe o número da tabuada: ");
