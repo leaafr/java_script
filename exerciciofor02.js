@@ -18,8 +18,6 @@ for (let i = 1; i <= 2; i++) {
     } else {
         impostoRenda = salario * 0.275;
     }
-
-
     console.log(`\nImposto de Renda a ser pago`);
     console.log(`Nome: ${nome} \nImposto de Renda: R$ ${impostoRenda.toFixed(2)}\n`);
 }
